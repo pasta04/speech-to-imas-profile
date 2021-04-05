@@ -5430,5 +5430,33 @@
     "voiceActorRelease": "",
     "twitter": "",
     "nickname": ""
+  },
+  {
+    "type": "パッション",
+    "fullname": "久川凪",
+    "lastName": "久川",
+    "lastNameKana": "",
+    "firstName": "凪",
+    "firstNameKana": "",
+    "fullnameKana": "ひさかわなぎ",
+    "ageStr": "14歳",
+    "birthday": "06/16",
+    "constellation": "双子座",
+    "blood": "B型",
+    "heightStr": 150,
+    "weightStr": 40,
+    "bustStr": 76,
+    "waistStr": 56,
+    "hipStr": 80,
+    "hand": "右",
+    "birthplace": "徳島",
+    "hobby": "写真・ポエム・読書（新書）",
+    "voiceActor": "立花日菜",
+    "implementationDate": "2019-04-01T15:00:00.000Z",
+    "voiceImplementationDate": "2019-04-01T15:00:00.000Z",
+    "voiceImplementationReason": "",
+    "voiceActorRelease": "",
+    "twitter": "",
+    "nickname": ""
   }
 ]
